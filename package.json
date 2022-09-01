@@ -17,9 +17,9 @@
   "author": "Oleksandr Basarab",
   "license": "MIT",
   "devDependencies": {
-    "@capacitor/android": "^2.5.0",
-    "@capacitor/core": "^2.5.0",
-    "@capacitor/ios": "^2.5.0",
+    "@capacitor/android": "3.6.0",
+    "@capacitor/core": "^3.2.0",
+    "@capacitor/ios": "3.5.1",
     "@ionic/prettier-config": "^1.0.0",
     "@ionic/swiftlint-config": "^1.0.0",
     "@rollup/plugin-node-resolve": "^8.1.0",
